@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Koxy AI Blog Blog</title>
+        <link>https://koxy-ai.github.io/blog/</link>
+        <description>Koxy AI Blog Blog</description>
+        <lastBuildDate>Mon, 07 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[ZERO-LAUNCH Event]]></title>
+            <link>https://koxy-ai.github.io/blog/zero-launch</link>
+            <guid>https://koxy-ai.github.io/blog/zero-launch</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are launching Koxy AI with zero-budget marketing...!]]></description>
+            <content:encoded><![CDATA[<p>We are launching Koxy AI with zero-budget marketing...!</p><p><img loading="lazy" alt="Image" src="/blog/assets/images/launch_event_1-1b5a4829e8b76831129a3d154840a62a.png" width="1584" height="396" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-zero-launch-">Why ZERO-LAUNCH ?<a href="#why-zero-launch-" class="hash-link" aria-label="Direct link to Why ZERO-LAUNCH ?" title="Direct link to Why ZERO-LAUNCH ?">​</a></h3><p>There are thousands of small developers publishing great products everyday and just nobody knows about it because they don't have the require budget to advertise their products to the market. We are just trying to live in a day of this developer's life.</p><p>We recommend you check the <a href="https://koxy-ai.web.app/zero-launch" target="_blank" rel="noopener noreferrer">event page</a></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="offers">Offers<a href="#offers" class="hash-link" aria-label="Direct link to Offers" title="Direct link to Offers">​</a></h3><p>You can upgrade your Cloudspace for free now using the <code>zerolaunch</code> discount code. this is a limited offer to one thousand versions. be quick and get your own free upgrade now. <a href="https://koxy-ai.web.app#pricing" target="_blank" rel="noopener noreferrer">learn more</a></p>]]></content:encoded>
+            <category>event</category>
+            <category>zero-launch</category>
+            <category>launch</category>
+            <category>offers</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://koxy-ai.github.io/blog/welcome</link>
+            <guid>https://koxy-ai.github.io/blog/welcome</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are glad to welcome you to Koxy AI. where you build anything in a minute, and deploy everything to the world in a second.]]></description>
+            <content:encoded><![CDATA[<p>We are glad to welcome you to Koxy AI. where you build anything in a minute, and deploy everything to the world in a second.</p><p>Koxy AI is a no-code platform to build serverless globally distrubed backend with no code and zero config.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-get-started-using-koxy-ai-">How to get started using Koxy AI ?<a href="#how-to-get-started-using-koxy-ai-" class="hash-link" aria-label="Direct link to How to get started using Koxy AI ?" title="Direct link to How to get started using Koxy AI ?">​</a></h3><p>First you can <a href="https://koxy-ai.web.app/sign-up" target="_blank" rel="noopener noreferrer">create an account in the platform</a>, after that We recommend you check the <a href="https://koxy-ai.github.io/koxy-docs" target="_blank" rel="noopener noreferrer">documentation</a>, It will give you a good knowledge about how things work in Koxy AI.</p><p>We are happy to have you with us in this exciting journey. this is just the start and We will be publishing more on this blog over time.</p>]]></content:encoded>
+            <category>welcome</category>
+            <category>getting started</category>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkoxy_blog=self.webpackChunkkoxy_blog||[]).push([[665],{8576:l=>{l.exports=JSON.parse('{"label":"zero-launch","permalink":"/blog/tags/zero-launch","allTagsPath":"/blog/tags","count":1}')}}]);
