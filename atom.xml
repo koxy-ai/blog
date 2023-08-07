@@ -8,20 +8,18 @@
     <subtitle>Koxy AI Blog Blog</subtitle>
     <icon>https://koxy-ai.github.io/blog/https://fqoeejiwzrmeiaxejxjs.supabase.co/storage/v1/object/public/public/logos/koxy_new_modern.png</icon>
     <entry>
-        <title type="html"><![CDATA[ZERO-LAUNCH Event]]></title>
-        <id>https://koxy-ai.github.io/blog/zero-launch</id>
-        <link href="https://koxy-ai.github.io/blog/zero-launch"/>
+        <title type="html"><![CDATA[Build your backend with Koxy AI: part 1]]></title>
+        <id>https://koxy-ai.github.io/blog/build-your-backend-with-koxy-ai</id>
+        <link href="https://koxy-ai.github.io/blog/build-your-backend-with-koxy-ai"/>
         <updated>2023-08-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are launching Koxy AI with zero-budget marketing...!]]></summary>
-        <content type="html"><![CDATA[<p>We are launching Koxy AI with zero-budget marketing...!</p><p><img loading="lazy" alt="Image" src="/blog/assets/images/launch_event_1-1b5a4829e8b76831129a3d154840a62a.png" width="1584" height="396" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-zero-launch-">Why ZERO-LAUNCH ?<a href="#why-zero-launch-" class="hash-link" aria-label="Direct link to Why ZERO-LAUNCH ?" title="Direct link to Why ZERO-LAUNCH ?">​</a></h3><p>There are thousands of small developers publishing great products everyday and just nobody knows about it because they don't have the require budget to advertise their products to the market. We are just trying to live in a day of this developer's life.</p><p>We recommend you check the <a href="https://koxy-ai.web.app/zero-launch" target="_blank" rel="noopener noreferrer">event page</a></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="offers">Offers<a href="#offers" class="hash-link" aria-label="Direct link to Offers" title="Direct link to Offers">​</a></h3><p>You can upgrade your Cloudspace for free now using the <code>zerolaunch</code> discount code. this is a limited offer to one thousand versions. be quick and get your own free upgrade now. <a href="https://koxy-ai.web.app#pricing" target="_blank" rel="noopener noreferrer">learn more</a></p>]]></content>
+        <summary type="html"><![CDATA[Hey everybody, so We are just launching Koxy AI and I wanted to talk about some of the cachy features that Koxy AI offers. this will be a series of posts that I'll share here and We will end up building a new version of Neon Music Network using Koxy AI...]]></summary>
+        <content type="html"><![CDATA[<p>Hey everybody, so We are just launching Koxy AI and I wanted to talk about some of the cachy features that Koxy AI offers. this will be a series of posts that I'll share here and We will end up building a new version of <a href="https://www.google.com/search?q=what+is+Neon+Music+Network" target="_blank" rel="noopener noreferrer">Neon Music Network</a> using Koxy AI...</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-koxy-ai-">What is Koxy AI ?<a href="#what-is-koxy-ai-" class="hash-link" aria-label="Direct link to What is Koxy AI ?" title="Direct link to What is Koxy AI ?">​</a></h2><p>Well, Koxy AI is a no-code platform that gives you the ability to build your serverless backend without writing a single line of code.</p><p>If you want to know more about how Koxy AI works, I recommend you check the <a href="https://koxy-ai.github.io/koxy-docs/getting-started" target="_blank" rel="noopener noreferrer">getting started documentation</a>.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="koxy-ai-is-more-than-a-no-code-platform">Koxy AI is more than a no-code platform<a href="#koxy-ai-is-more-than-a-no-code-platform" class="hash-link" aria-label="Direct link to Koxy AI is more than a no-code platform" title="Direct link to Koxy AI is more than a no-code platform">​</a></h2><p>Koxy AI offers advanced features to give you the ability to build your backend based on the modern development standards.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="dynamic-variables">Dynamic variables<a href="#dynamic-variables" class="hash-link" aria-label="Direct link to Dynamic variables" title="Direct link to Dynamic variables">​</a></h3><p>Let's first talk about <a href="https://koxy-ai.github.io/koxy-docs/getting-started/dynamic-variables" target="_blank" rel="noopener noreferrer">dynamic variables</a>... in my opinion this is the most important feature in Koxy AI for anyone building complex and dynamic apps.</p><p>You can use dynamic variables to do things like getting a value of an environment variable, previous node's response, parameter, header, and even build relational data documents using <a href="https://koxy-ai.github.io/koxy-docs/koxy-database" target="_blank" rel="noopener noreferrer">Koxy Database</a>.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="simulation">Simulation<a href="#simulation" class="hash-link" aria-label="Direct link to Simulation" title="Direct link to Simulation">​</a></h3><p>The way that Koxy AI system works is unique, We actually simulate your backend instead of hosting it on a physical server, you can learn more about this <a href="https://koxy-ai.github.io/koxy-docs/how-koxy-ai-works" target="_blank" rel="noopener noreferrer">here</a>.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="koxy-database">Koxy Database<a href="#koxy-database" class="hash-link" aria-label="Direct link to Koxy Database" title="Direct link to Koxy Database">​</a></h3><p>Koxy Database is so similar to <a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noopener noreferrer">Firebase's Firestore</a>, data is saved in collections as JSON documents.</p><p>I've added a cool feature to the Koxy Database actually, and it's the feature that prevent us from calling it a NoSQL database. Koxy Database supports <a href="https://koxy-ai.github.io/koxy-docs/koxy-database/document-embedding" target="_blank" rel="noopener noreferrer">document embedding</a> or what's called relational data. I built this feature few days ago actually and I'm excited to see how developer interact and work with it.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="nodes">Nodes<a href="#nodes" class="hash-link" aria-label="Direct link to Nodes" title="Direct link to Nodes">​</a></h3><p>Nodes are self-contained functions... they can be connected together to build up an API endpoint, what connects nodes together are <a href="https://koxy-ai.github.io/koxy-docs/getting-started/nodes/understanding-nodes#triggers" target="_blank" rel="noopener noreferrer">triggers</a>. there are a number of different triggers in every node. I recommend you check our <a href="https://koxy-ai.github.io/koxy-docs/available-nodes" target="_blank" rel="noopener noreferrer">available nodes list</a>.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="there-is-a-lot-to-talk-about">There is a lot to talk about<a href="#there-is-a-lot-to-talk-about" class="hash-link" aria-label="Direct link to There is a lot to talk about" title="Direct link to There is a lot to talk about">​</a></h2><p>Koxy AI has a huge range of features and I can't cover all of them. I just wanted to talk about some features in the first part of this series and I'll try my best to share a post every day.</p><p>Thank you for reading.</p>]]></content>
         <author>
-            <name>Koxy Team</name>
-            <uri>https://koxy-ai.web.app/about-us</uri>
+            <name>Kais Radwan</name>
+            <uri>https://www.linkedin.com/in/kais-radwan/</uri>
         </author>
-        <category label="event" term="event"/>
-        <category label="zero-launch" term="zero-launch"/>
-        <category label="launch" term="launch"/>
-        <category label="offers" term="offers"/>
+        <category label="koxy" term="koxy"/>
+        <category label="build you backend with koxy ai" term="build you backend with koxy ai"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
@@ -40,5 +38,21 @@
         </author>
         <category label="welcome" term="welcome"/>
         <category label="getting started" term="getting started"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZERO-LAUNCH Event]]></title>
+        <id>https://koxy-ai.github.io/blog/zero-launch</id>
+        <link href="https://koxy-ai.github.io/blog/zero-launch"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are launching Koxy AI with zero-budget marketing...!]]></summary>
+        <content type="html"><![CDATA[<p>We are launching Koxy AI with zero-budget marketing...!</p><p><img loading="lazy" alt="Image" src="/blog/assets/images/launch_event_1-1b5a4829e8b76831129a3d154840a62a.png" width="1584" height="396" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-zero-launch-">Why ZERO-LAUNCH ?<a href="#why-zero-launch-" class="hash-link" aria-label="Direct link to Why ZERO-LAUNCH ?" title="Direct link to Why ZERO-LAUNCH ?">​</a></h3><p>There are thousands of small developers publishing great products everyday and just nobody knows about it because they don't have the require budget to advertise their products to the market. We are just trying to live in a day of this developer's life.</p><p>We recommend you check the <a href="https://koxy-ai.web.app/zero-launch" target="_blank" rel="noopener noreferrer">event page</a></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="offers">Offers<a href="#offers" class="hash-link" aria-label="Direct link to Offers" title="Direct link to Offers">​</a></h3><p>You can upgrade your Cloudspace for free now using the <code>zerolaunch</code> discount code. this is a limited offer to one thousand versions. be quick and get your own free upgrade now. <a href="https://koxy-ai.web.app#pricing" target="_blank" rel="noopener noreferrer">learn more</a></p>]]></content>
+        <author>
+            <name>Koxy Team</name>
+            <uri>https://koxy-ai.web.app/about-us</uri>
+        </author>
+        <category label="event" term="event"/>
+        <category label="zero-launch" term="zero-launch"/>
+        <category label="launch" term="launch"/>
+        <category label="offers" term="offers"/>
     </entry>
 </feed>

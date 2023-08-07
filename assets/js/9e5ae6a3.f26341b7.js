@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkoxy_blog=self.webpackChunkkoxy_blog||[]).push([[758],{2814:a=>{a.exports=JSON.parse('{"label":"build you backend with koxy ai","permalink":"/blog/tags/build-you-backend-with-koxy-ai","allTagsPath":"/blog/tags","count":1}')}}]);
