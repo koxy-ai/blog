@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkoxy_blog=self.webpackChunkkoxy_blog||[]).push([[6208],{235:l=>{l.exports=JSON.parse('{"label":"builder","permalink":"/blog/tags/builder","allTagsPath":"/blog/tags","count":1}')}}]);
