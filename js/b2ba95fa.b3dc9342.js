@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkoxy_blog=self.webpackChunkkoxy_blog||[]).push([[9051],{5175:a=>{a.exports=JSON.parse('{"label":"is Koxy AI bad","permalink":"/blog/tags/is-koxy-ai-bad","allTagsPath":"/blog/tags","count":1}')}}]);

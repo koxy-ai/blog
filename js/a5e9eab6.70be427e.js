@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkoxy_blog=self.webpackChunkkoxy_blog||[]).push([[3978],{3142:l=>{l.exports=JSON.parse('{"label":"build your backend","permalink":"/blog/tags/build-your-backend","allTagsPath":"/blog/tags","count":1}')}}]);
